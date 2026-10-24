@@ -1,0 +1,15 @@
+# 生成物示例，不入库
+output/
+
+# Python 缓存
+__pycache__/
+*.pyc
+*.pyo
+
+# 虚拟环境
+.venv/
+venv/
+
+# 系统文件
+.DS_Store
+Thumbs.db
